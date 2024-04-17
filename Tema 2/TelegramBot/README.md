@@ -5,6 +5,7 @@ A continuación, presento la documentación para comprender la realización de l
 Iniciamos con la evidencia de crear un hibrido con las dos practicas:
 
 En la practica se proponen las siguientes expresiones regulares: 
+
 **1)** `"patron_origen_destino_fecha = re.compile (r"volar de (\w+) a (\w+) el (\d{1,2} de \w+)", re.IGNORECASE)"` 
 
 **2)** `"patron_precio = re.compile (r"cuánto cuesta un vuelo de (\w+) a (\w+)", re.IGNORECASE)"` 
